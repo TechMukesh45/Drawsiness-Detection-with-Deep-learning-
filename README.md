@@ -1,0 +1,1 @@
+Drowsiness-related accidents pose a significant risk during driving. This project aims to address this issue by providing a reliable and efficient solution for real-time drowsiness detection. The combination of CNN and ResNet ensures a robust and accurate model, contributing to safer journeys. Dataset used for buliding model is image dataset of closed and open eyes.
